@@ -9,7 +9,7 @@ function About() {
       <div className="lg:w-1/2 w-full mb-6  lg:mb-0"> 
         <h1 className="sm:text-4xl text-2xl g-3 font-bold mb-2 text-black"> Our Specialities</h1>
       </div>
-      <p className="lg:w-10/12 w-full text-bold text-black">At <b>The Cake Palette</b>, our journey began with a passion for baking and a dream to share the warmth and comfort of freshly made goods with our community. From humble beginnings in a small kitchen to a beloved neighborhood bakery, we&#39ve grown thanks to the love and support of our loyal customers. Every day, we bake with heart, using the finest ingredients to create delicious treats that bring people together. Join us in celebrating the art of baking and the simple joys of life, one bite at a time.</p>
+      <p className="lg:w-10/12 w-full text-bold text-black">At <b>The Cake Palette</b>, our journey began with a passion for baking and a dream to share the warmth and comfort of freshly made goods with our community. From humble beginnings in a small kitchen to a beloved neighborhood bakery, we have grown thanks to the love and support of our loyal customers. Every day, we bake with heart, using the finest ingredients to create delicious treats that bring people together. Join us in celebrating the art of baking and the simple joys of life, one bite at a time.</p>
     </div>
     <div className="flex flex-wrap -m-4">
       <div className="xl:w-1/4 md:w-1/2 p-4">
