@@ -16,7 +16,7 @@ function About() {
           <p className="text-black text-xl text-center pt-0 mb-5">
           Welcome to <b>The Cake Palette</b>, where every cake tells a story! Established with a passion for baking and a love for bringing joy to special moments, we specialize in creating delicious, custom-made cakes that look as good as they taste.
 
-At <b>Cake Palette</b>, we believe that every celebration deserves a centerpiece that reflects your personality and tastes. Whether you're planning a birthday, wedding, anniversary, or any special occasion, our cakes are baked fresh with the finest ingredients and crafted with precision and care.
+At <b>Cake Palette</b>, we believe that every celebration deserves a centerpiece that reflects your personality and tastes. Whether you are planning a birthday, wedding, anniversary, or any special occasion, our cakes are baked fresh with the finest ingredients and crafted with precision and care.
 
 Our talented bakers and decorators work closely with you to design cakes that not only satisfy your sweet tooth but also leave a lasting impression. From classic flavors to innovative creations, we cater to all tastes and dietary preferences, offering a wide range of options, including gluten-free, vegan, and sugar-free cakes.
 
